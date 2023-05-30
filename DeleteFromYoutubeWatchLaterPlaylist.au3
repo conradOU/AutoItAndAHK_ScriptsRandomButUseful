@@ -8,5 +8,4 @@ For $i = 25 To 1 Step -1
     MouseClick("left", 1300, 219)
     Sleep($sleeptime)
     MouseClick("left", 1167, 366)
-	;~ $counter += 1
 Next
